@@ -1,0 +1,123 @@
+/* .{
+    width: 100%;
+}
+.body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.section img  {
+    width: 100%;
+}
+
+.section   {
+    width: 100%;
+}
+.section img{
+    align-items: center;
+
+}
+.part1{
+    width: 100%;
+    height:25em;
+    display: flex;
+}
+.first
+{
+    width: 50%;
+    height: 20em;
+}
+.second{
+    width: 50%;
+    height: 20em;
+}
+.micro col-md-6 col-12{
+    width: 25em;
+    height: 15em;
+    overflow: hidden;
+    border-radius: 2em;
+    margin-left: 15em;
+}
+.col-md-6 img{
+    width: 25em;
+    height: 15em;
+    border-radius: 2em;     
+    overflow: hidden;
+
+    margin-left: 13em;
+}
+.part2{
+    width: 100%;
+    height: 200em;
+    background-attachment: red;
+} 
+
+.portion img {
+    width: 8em;
+    height: 2em;
+    overflow: hidden;
+    margin-left: 0;
+    padding-top: 10px;
+    border-radius: 0%;  
+}
+.row {
+    display: flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -23px;
+    margin-left: -100px;
+}
+.aside1 img{
+    border-radius: 0%;
+    margin-left: 5em;
+    width: 30em;
+    height: 25em;
+}
+h4.pt-4{
+    font-weight: bold;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 54px;
+    font-weight: 600;
+    color: rgb(50, 49, 48);
+    display: inline;
+    line-height: 1.4;
+    padding-left: 2em;
+}
+p {
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(50, 49, 48);
+    padding-left: 5em;
+}
+
+.aside3 img{
+    border-radius: 1%;
+    margin-left: 5em;
+    width: 30em;
+    height: 25em;
+}
+h4.pt-4{
+    font-weight: bold;
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 54px;
+    font-weight: 600;
+    color: rgb(50, 49, 48);
+    display: flex;
+    line-height: 1.4;
+    padding-left: 2em;
+}
+p {
+    font-family: "Segoe UI", "Segoe UI Web (West European)", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(50, 49, 48);
+    padding-left: 5em;
+
+} */
